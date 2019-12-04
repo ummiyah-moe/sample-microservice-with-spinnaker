@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: sample-microservice
-        image: 582272135730.dkr.ecr.us-west-2.amazonaws.com/sample-microservice:latest
+        image: 582272135730.dkr.ecr.us-west-2.amazonaws.com/sample-microservice
         resources:
           limits:
             memory: "128Mi"
